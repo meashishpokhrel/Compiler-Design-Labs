@@ -1,0 +1,10 @@
+
+num1 = 4.8
+num2 = 9.5
+sum = num1 + num2
+
+
+print("LabWork of Mr. Ashish")
+print("Compiler LabWork First")
+print("Ashish Pokhrel")
+print("The sum of {0} and {1} is {2}".format(num1, num2, sum))
